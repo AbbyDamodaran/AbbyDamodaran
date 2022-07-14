@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AbbyDamodaran
 - 👀 I’m interested in language learning (human & artificial languages: French, Sanskrit, Java, Javascript, Python)
-- 🌱 I’m currently learning how to code a game using Javascript
-- 💞️ I’m looking to collaborate on beginner-friendly projects in Java or Python
+- 🌱 I’m currently coding an infinite runner game using Javascript
 - 📫 How to reach me : abby.damodaran@gmail.com
 
 <!---
