@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbbyDamodaran
-- 🌱 I’m currently obsessed with iOS development using Swift
+- 🌱 Some of the simple iOS apps I built with Swift are public if you want to take a peek.
 - 📫 You can reach me at abby.damodaran@gmail.com
 
 <!---
